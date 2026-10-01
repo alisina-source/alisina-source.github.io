@@ -1,0 +1,72 @@
+{
+  "name": "Ali",
+  "headline": "Automotive Parts & E-commerce",
+  "intro": "I work remotely in automotive parts, supporting inventory, online listings, pricing and accurate product information.",
+  "location": "Afghanistan · Working remotely",
+  "email": "sina.yousufii@gmail.com",
+  "entries": [
+    {
+      "id": "e3847899-f1fe-4a6b-9f8e-e78c0fab02c4",
+      "section": "Education",
+      "title": "Bachelor of Business Administration ",
+      "organization": "University of People ",
+      "period": "",
+      "description": "",
+      "media": [],
+      "organizationWebsite": "https://www.uopeople.edu/",
+      "organizationAddress": "Wilmington, DE 19801, USA"
+    },
+    {
+      "id": "experience-1",
+      "section": "Experience",
+      "title": "Automotive Parts Inventory & E-commerce Coordinator",
+      "organization": "Absolute Auto Parts · Remote",
+      "period": "Jan 2026 - Present ",
+      "description": "Support automotive parts inventory and online sales.\n\n• Enter vehicle details, parts information and photographs in Pinnacle.\n• Create listings on Facebook Marketplace and Gumtree Australia.\n• Zoho CRM Manager.\n• Research parts compatibility and support product pricing.",
+      "media": [
+        {
+          "key": "3f8bd561-3147-446a-a4de-5eaf037fec8e.jpg",
+          "type": "image/jpeg",
+          "name": "WhatsApp Image 2026-09-18 at 3.40.36 AM (1).jpeg",
+          "caption": "Recently Car Part's Inventoried "
+        },
+        {
+          "key": "b5117bca-681c-4236-bdd5-9a6993c5dce2.jpg",
+          "type": "image/jpeg",
+          "name": "WhatsApp Image 2026-09-18 at 3.40.35 AM.jpeg",
+          "caption": "Recently Car Part's Inventoried "
+        },
+        {
+          "key": "3276d6ab-1b89-4798-b685-2bd683c6f21e.jpg",
+          "type": "image/jpeg",
+          "name": "WhatsApp Image 2026-09-18 at 3.40.36 AM.jpeg",
+          "caption": "Recently Car Part's Inventoried "
+        },
+        {
+          "key": "61334c5e-00a7-4ca7-8651-169dbbefc1f6.jpg",
+          "type": "image/jpeg",
+          "name": "WhatsApp Image 2026-09-18 at 3.40.51 AM.jpeg",
+          "caption": "Recently Car Part's Inventoried "
+        },
+        {
+          "key": "a957b2ff-107f-4350-8923-0823b7644542.jpg",
+          "type": "image/jpeg",
+          "name": "WhatsApp Image 2026-09-18 at 3.40.56 AM.jpeg",
+          "caption": "Recently Car Part's Inventoried "
+        }
+      ],
+      "organizationWebsite": "https://absoluteautoparts.com.au/",
+      "organizationAddress": "24-26 Podmore St, Dandenong VIC 3175"
+    },
+    {
+      "id": "skills-1",
+      "section": "Skills",
+      "title": "Inventory & online sales",
+      "organization": "",
+      "period": "",
+      "description": "Automotive parts research · Inventory data entry · E-commerce listings · Product pricing · Pinnacle · Zoho CRM · Facebook Marketplace · Gumtree",
+      "media": []
+    }
+  ],
+  "whatsapp": "+93 790125513"
+}
