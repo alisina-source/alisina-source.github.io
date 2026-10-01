@@ -59,6 +59,15 @@
       "organizationAddress": "24-26 Podmore St, Dandenong VIC 3175"
     },
     {
+      "id": "2ac971b2-3baa-4e9b-9b07-a825ab9dcf24",
+      "section": "Skills",
+      "title": "Artificial Intelligence Automation ",
+      "organization": "",
+      "period": "",
+      "description": "AI & Workflow Automation — ChatGPT and n8n\n\nCreating AI-assisted workflows with ChatGPT and n8n to automate repetitive tasks, connect applications, organize information, and support content creation. Combining AI tools with workflow automation to simplify business processes and reduce manual work.",
+      "media": []
+    },
+    {
       "id": "skills-1",
       "section": "Skills",
       "title": "Inventory & online sales",
