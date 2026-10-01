@@ -4,7 +4,13 @@ Website: https://alisina-source.github.io
 
 Only your GitHub account and collaborators you explicitly add can edit. Visitors can view the website and public files. Never upload passwords or private documents.
 
-## Edit your profile and experience
+## Manage with forms
+
+Open https://alisina-source.github.io/manage.html or click Manage portfolio on your website. Add experiences, education, albums, media and contact information using forms. Changes are temporary drafts in that browser tab; keep it open until you download them.
+
+Click Download changes. Extract portfolio-changes.zip, then upload all extracted files to this repository with Add file → Upload files and Commit changes. Your live site updates after GitHub publishes. Only your GitHub account and any collaborators you add can publish changes. The form is publicly accessible; visitors can create their own local drafts but cannot change your published site without repository write access.
+
+## Edit your profile and experience manually (optional)
 
 Sign in, open `portfolio.json`, click the pencil (Edit), update text between quotation marks and commit changes to `main`. Keep valid JSON. GitHub Pages publishes updates automatically after a few minutes. Entries follow the order of the `entries` array; move an entry earlier to prioritize it.
 
