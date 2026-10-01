@@ -6,6 +6,35 @@
   "email": "sina.yousufii@gmail.com",
   "entries": [
     {
+      "id": "0a6d4170-0ae7-4d8a-bd37-1666e72f0b09",
+      "section": "Experience",
+      "title": "E-commerce & Online Product Listing",
+      "organization": "Absolute Auto Parts ",
+      "period": "",
+      "description": "",
+      "media": [
+        {
+          "key": "76bf8341-16a3-440e-80c3-c21787547148.png",
+          "type": "image/png",
+          "name": "Screenshot 2026-10-01 113539.png",
+          "caption": ""
+        },
+        {
+          "key": "bc5e9d4a-a7a5-4a53-8d60-df56c4327647.png",
+          "type": "image/png",
+          "name": "Screenshot 2026-10-01 113509.png",
+          "caption": ""
+        },
+        {
+          "key": "419239e7-7807-478b-8b4f-70537e147775.png",
+          "type": "image/png",
+          "name": "Screenshot 2026-10-01 113445.png",
+          "caption": ""
+        }
+      ],
+      "parentEntryId": "experience-1"
+    },
+    {
       "id": "e3847899-f1fe-4a6b-9f8e-e78c0fab02c4",
       "section": "Education",
       "title": "Bachelor of Business Administration ",
