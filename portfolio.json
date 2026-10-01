@@ -6,6 +6,23 @@
   "email": "sina.yousufii@gmail.com",
   "entries": [
     {
+      "id": "28076cfb-9b80-4102-8990-24f07f94a770",
+      "section": "Work Albums",
+      "title": "Inventory Use Pinnacle System ",
+      "organization": "",
+      "period": "",
+      "description": "",
+      "media": [
+        {
+          "key": "f6d119c3-be8f-4c2e-88ee-fc8e08d34fd3.png",
+          "type": "image/png",
+          "name": "Screenshot 2026-10-01 212849.png",
+          "caption": "Pinnacle system for car parts inventory "
+        }
+      ],
+      "parentEntryId": "experience-1"
+    },
+    {
       "id": "17941de0-097e-4f5f-a2a1-78018a7c737d",
       "section": "Work Albums",
       "title": "Gumtree Product Listing ",
@@ -33,35 +50,6 @@
         }
       ],
       "parentEntryId": "0a6d4170-0ae7-4d8a-bd37-1666e72f0b09"
-    },
-    {
-      "id": "0a6d4170-0ae7-4d8a-bd37-1666e72f0b09",
-      "section": "Experience",
-      "title": "E-commerce & Online Product Listing",
-      "organization": "Absolute Auto Parts ",
-      "period": "",
-      "description": "",
-      "media": [
-        {
-          "key": "76bf8341-16a3-440e-80c3-c21787547148.png",
-          "type": "image/png",
-          "name": "Screenshot 2026-10-01 113539.png",
-          "caption": ""
-        },
-        {
-          "key": "bc5e9d4a-a7a5-4a53-8d60-df56c4327647.png",
-          "type": "image/png",
-          "name": "Screenshot 2026-10-01 113509.png",
-          "caption": ""
-        },
-        {
-          "key": "419239e7-7807-478b-8b4f-70537e147775.png",
-          "type": "image/png",
-          "name": "Screenshot 2026-10-01 113445.png",
-          "caption": ""
-        }
-      ],
-      "parentEntryId": "experience-1"
     },
     {
       "id": "e3847899-f1fe-4a6b-9f8e-e78c0fab02c4",
@@ -115,6 +103,35 @@
       ],
       "organizationWebsite": "https://absoluteautoparts.com.au/",
       "organizationAddress": "24-26 Podmore St, Dandenong VIC 3175"
+    },
+    {
+      "id": "0a6d4170-0ae7-4d8a-bd37-1666e72f0b09",
+      "section": "Experience",
+      "title": "E-commerce & Online Product Listing",
+      "organization": "Absolute Auto Parts ",
+      "period": "",
+      "description": "",
+      "media": [
+        {
+          "key": "76bf8341-16a3-440e-80c3-c21787547148.png",
+          "type": "image/png",
+          "name": "Screenshot 2026-10-01 113539.png",
+          "caption": ""
+        },
+        {
+          "key": "bc5e9d4a-a7a5-4a53-8d60-df56c4327647.png",
+          "type": "image/png",
+          "name": "Screenshot 2026-10-01 113509.png",
+          "caption": ""
+        },
+        {
+          "key": "419239e7-7807-478b-8b4f-70537e147775.png",
+          "type": "image/png",
+          "name": "Screenshot 2026-10-01 113445.png",
+          "caption": ""
+        }
+      ],
+      "parentEntryId": "experience-1"
     },
     {
       "id": "2ac971b2-3baa-4e9b-9b07-a825ab9dcf24",
