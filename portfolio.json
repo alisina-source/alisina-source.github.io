@@ -1,7 +1,7 @@
 {
-  "name": "Ali",
+  "name": "Alisina Yousufi",
   "headline": "Automotive Parts & E-commerce",
-  "intro": "I work remotely in automotive parts, supporting inventory, online listings, pricing and accurate product information.",
+  "intro": "I am an Automotive Parts Inventory & E-commerce Coordinator working remotely for Absolute Auto Parts, an Australian company. I maintain accurate parts inventory in Pinnacle, create and manage listings on Facebook Marketplace and Gumtree, and update product details, photos, and prices. My responsibilities also include researching automotive parts and vehicle compatibility, determining product prices, and correcting invoices in Zoho CRM.",
   "location": "Afghanistan · Working remotely",
   "email": "sina.yousufii@gmail.com",
   "entries": [
@@ -56,8 +56,8 @@
       "section": "Education",
       "title": "Bachelor of Business Administration ",
       "organization": "University of People ",
-      "period": "",
-      "description": "",
+      "period": "JUL 30, 2026 - Present ",
+      "description": "I am currently studying for a Bachelor of Business Administration (BBA) at the University of the People (UoPeople) and am in my first semester. I have received a scholarship to support my studies and am developing my knowledge and skills in business, management, and entrepreneurship.",
       "media": [],
       "organizationWebsite": "https://www.uopeople.edu/",
       "organizationAddress": "Wilmington, DE 19801, USA"
@@ -65,10 +65,10 @@
     {
       "id": "experience-1",
       "section": "Experience",
-      "title": "Automotive Parts Inventory & E-commerce Coordinator",
+      "title": "Automotive Parts Inventory",
       "organization": "Absolute Auto Parts · Remote",
-      "period": "Jan 2026 - Present ",
-      "description": "Support automotive parts inventory and online sales.\n\n• Enter vehicle details, parts information and photographs in Pinnacle.\n• Create listings on Facebook Marketplace and Gumtree Australia.\n• Zoho CRM Manager.\n• Research parts compatibility and support product pricing.",
+      "period": "Oct 15, 2025 - Present ",
+      "description": "Responsibilities:\nMaintain automotive parts inventory using the Pinnacle system.\nIdentify and select the correct IC descriptions for automotive parts.\nResearch market prices and set competitive prices for parts.\nFind and verify the correct OEM part numbers.\nUpload vehicle and parts photos to the system.",
       "media": [
         {
           "key": "3f8bd561-3147-446a-a4de-5eaf037fec8e.jpg",
@@ -109,8 +109,8 @@
       "section": "Experience",
       "title": "E-commerce & Online Product Listing",
       "organization": "Absolute Auto Parts ",
-      "period": "",
-      "description": "",
+      "period": "Oct 15, 2025 - Present ",
+      "description": "Responsibilities:\nCreate and manage automotive parts listings.\nWrite clear and accurate product descriptions.\nUpload photos and update prices and product details.",
       "media": [
         {
           "key": "76bf8341-16a3-440e-80c3-c21787547148.png",
@@ -145,10 +145,19 @@
     {
       "id": "skills-1",
       "section": "Skills",
-      "title": "Inventory & online sales",
+      "title": "Skills for Automotive Parts Inventory & E-commerce Coordinator",
       "organization": "",
       "period": "",
-      "description": "Automotive parts research · Inventory data entry · E-commerce listings · Product pricing · Pinnacle · Zoho CRM · Facebook Marketplace · Gumtree",
+      "description": "- Automotive Parts Inventory Management\n- Pinnacle Inventory System\n- Automotive Parts Research & Identification\n- Vehicle Parts Compatibility Research\n- Online Marketplace Listing Management\n- Product Data Entry & Accuracy\n- Product Pricing & Market Research\n- Zoho CRM & Invoice Corrections\n- Product Description Writing\n- Remote Work & Time Management",
+      "media": []
+    },
+    {
+      "id": "281a90ca-8be9-430e-8a90-fa05d7c100c6",
+      "section": "Skills",
+      "title": "Computer Skills ",
+      "organization": "",
+      "period": "",
+      "description": "Windows\nAI Tools (ChatGPT)\nFacebook Marketplace\neBay \nGumtree\nWeb Browsing & Online Research\nData Entry\nEmail & Online Communication",
       "media": []
     }
   ],
