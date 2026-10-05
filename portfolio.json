@@ -170,5 +170,99 @@
       "media": []
     }
   ],
-  "whatsapp": "+93 790125513"
+  "whatsapp": "+93 790125513",
+  "logos": [
+    {
+      "key": "zoho.jpeg",
+      "name": "Zoho",
+      "type": "image/jpeg",
+      "caption": ""
+    },
+    {
+      "key": "pinnacle.png",
+      "name": "Pinnacle",
+      "type": "image/png",
+      "caption": ""
+    },
+    {
+      "key": "facebook.jpeg",
+      "name": "Facebook",
+      "type": "image/jpeg",
+      "caption": ""
+    },
+    {
+      "key": "ebay.jpeg",
+      "name": "eBay",
+      "type": "image/jpeg",
+      "caption": ""
+    },
+    {
+      "key": "gumtree.jpeg",
+      "name": "Gumtree",
+      "type": "image/jpeg",
+      "caption": ""
+    },
+    {
+      "key": "trade-me.png",
+      "name": "Trade Me",
+      "type": "image/png",
+      "caption": ""
+    },
+    {
+      "key": "notion.jpeg",
+      "name": "Notion",
+      "type": "image/jpeg",
+      "caption": ""
+    },
+    {
+      "key": "absolute-auto-parts.png",
+      "name": "Absolute Auto Parts",
+      "type": "image/png",
+      "caption": ""
+    }
+  ],
+  "heroMedia": [
+    {
+      "key": "8ea6709f-8ada-4304-b0b7-17f385e890d5.jpg",
+      "type": "image/jpeg",
+      "name": "Instagram",
+      "caption": ""
+    },
+    {
+      "key": "e127a17c-1d18-436a-8c3a-c454efa80480.jpg",
+      "type": "image/jpeg",
+      "name": "Toyota Prado",
+      "caption": ""
+    },
+    {
+      "key": "01860fc0-f581-4034-9d72-db2bc335209a.jpg",
+      "type": "image/jpeg",
+      "name": "Zu Verkaufen_ Porsche 911 Reimagined by Singer 1990 - elferspot_com",
+      "caption": ""
+    },
+    {
+      "key": "a018de44-f389-45d8-9f84-251f23699f36.jpg",
+      "type": "image/jpeg",
+      "name": "🚗💨 5 Бюджетных Апгрейдов для Улучшения Характеристик_1️⃣ Cold Air Intake – 💨 Больше воздуха = лучше разгон_2️⃣ Performance Tires – 🛞 Сцепление + безопасность_3️⃣ Lightweight Wheels – ⚡ Быстрее отклик_4️⃣ Upgrade",
+      "caption": ""
+    },
+    {
+      "key": "9e50b3b9-7d5b-4cec-a606-bd1579ed6331.jpg",
+      "type": "image/jpeg",
+      "name": "Toyota Car Spare Parts",
+      "caption": ""
+    },
+    {
+      "key": "64b724af-0a82-456a-89c9-71d8a8c3f7d5.jpg",
+      "type": "image/jpeg",
+      "name": "download (3)",
+      "caption": ""
+    },
+    {
+      "key": "a9f192cd-9c52-4303-a3e7-96b4a3118324.jpg",
+      "type": "image/jpeg",
+      "name": "_Удобная оплата автозапчастей онлайн_ быстро и безопасно!_",
+      "caption": ""
+    }
+  ]
 }
